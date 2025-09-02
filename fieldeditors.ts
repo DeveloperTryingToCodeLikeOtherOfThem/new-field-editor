@@ -5,8 +5,8 @@ class Image implements Image {
 // const canvas = new Image() // for the new field editor
 
 namespace images {
-    //% blockId=images_canvas block="canvas"
-    //% weight=99
+    //% blockId=images_canvas block="canvas %image=screen_image_picker"
+    //% weight=155  
     export function canvas(image: Image): Image {
         return image;
     }
