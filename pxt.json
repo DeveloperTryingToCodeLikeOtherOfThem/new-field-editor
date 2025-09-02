@@ -8,7 +8,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "fieldeditors.ts"
+        "fieldeditors.ts",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
